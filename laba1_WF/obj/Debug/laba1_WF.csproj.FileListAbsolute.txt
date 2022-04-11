@@ -1,0 +1,23 @@
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form1.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form2.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form3.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Properties.Resources.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.csproj.GenerateResource.cache
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.csproj.CoreCompileInputs.cache
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\laba1_WF.exe.config
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\laba1_WF.exe
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\laba1_WF.pdb
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.exe
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.pdb
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form4.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form5.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.группа.resources
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\Лабораторная №1 задача 2 пункт 1.resx
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\Лабораторная №1 задача 2 пункт 1.cs
+C:\Users\DroWez\source\repos\laba1_WF\bin\Debug\Лабораторная №1 задача 2 пункт 1.Designer.cs
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form7.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.csproj.AssemblyReference.cache
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form8.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form9.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form10.resources
+C:\Users\DroWez\source\repos\laba1_WF\obj\Debug\laba1_WF.Form11.resources
